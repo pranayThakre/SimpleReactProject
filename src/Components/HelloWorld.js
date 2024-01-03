@@ -8,6 +8,7 @@ const HelloWorld = () => {
   //   alert('Hello, World! for the last time');
   // }
 //testing if git pull work as expected
+// checking conflict
   return (
     <div style={{ textAlign: 'center' }}>
       <p>This is to test React App...</p>
