@@ -4,9 +4,9 @@ const HelloWorld = () => {
 
   const [firstName, setFirstName] = useState('');
   const [lastName, setLastName] = useState('');
-  // function sayHello() {
-  //   alert('Hello, World! for the last time');
-  // }
+  function sayHello() {
+    alert('Hello, World! for the last time');
+  }
 
   return (
     <div style={{ textAlign: 'center' }}>
