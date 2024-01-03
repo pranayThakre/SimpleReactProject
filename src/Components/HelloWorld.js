@@ -7,7 +7,7 @@ const HelloWorld = () => {
   // function sayHello() {
   //   alert('Hello, World! for the last time');
   // }
-
+//testing if git pull work as expected
   return (
     <div style={{ textAlign: 'center' }}>
       <p>This is to test React App...</p>
