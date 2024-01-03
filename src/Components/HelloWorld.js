@@ -4,10 +4,13 @@ const HelloWorld = () => {
 
   const [firstName, setFirstName] = useState('');
   const [lastName, setLastName] = useState('');
-  function sayHello() {
-    alert('Hello, World! for the last time');
-  }
 
+  // function sayHello() {
+  //   alert('Hello, World! for the last time');
+  // }
+//testing if git pull work as expected
+// conflict 
+  
   return (
     <div style={{ textAlign: 'center' }}>
       <p>This is to test React App...</p>
